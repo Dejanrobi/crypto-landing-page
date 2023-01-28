@@ -6,8 +6,8 @@ import {BsChevronDown} from 'react-icons/bs'
 const Navbar
  = () => {
   return (
-    <nav className="bg-primary bg-opacity-5">
-      <div className="fixed top-0  right-0 px-12 left-0 py-8 flex flex-row justify-between items-center">
+    <nav >
+      <div className="fixed top-0 bg-white right-0 px-12 left-0 py-4 flex flex-row justify-between items-center">
         <div className="flex flex-row items-center">
           {/* Logo */}
           <div className='flex mr-6'>

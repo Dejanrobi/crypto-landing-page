@@ -9,7 +9,7 @@ const HeroSection = () => {
   
 
   return (
-    <section className="mt-28">
+    <section className="mt-28 ">
           <div className="grid grid-cols-2">
             <div className='flex items-center'>
               <div>
