@@ -18,7 +18,7 @@ const BuyAndTradeSection = () => {
                         <div className="border-r border-primary pr-6">
                             <span className='text-primary text-sm'>Amount</span>
                         </div>   
-                        <input type="text" className=' text-right outline-none text-lg' placeholder='Enter amount...' />
+                        <input type="text" className=' text-right outline-none text-lg' placeholder='50000' />
                     </div>
                     <div className=" flex justify-center items-center gap-2 border border-primary text-lg rounded-2xl py-4 px-8">
                         

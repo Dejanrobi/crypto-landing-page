@@ -9,8 +9,8 @@ import ListCoin from '../ListCoin/ListCoin';
 
 
    return (
-     <section className="mt-20">
-        <div className="container p-4 mx-auto rounded-3xl bg-white shadow-md">
+     <section className="mt-20 flex items-center justify-center mx-auto">
+        <div className="container p-4  rounded-3xl bg-white shadow-md">
            
             <ListCoin/>                             
           
