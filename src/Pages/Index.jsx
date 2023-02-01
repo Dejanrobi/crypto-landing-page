@@ -9,6 +9,8 @@ import PartnerSection from '../Components/Sections/PartnerSection'
 import TradingToolsSection from '../Components/Sections/TradingToolsSection'
 import SecuritySection from '../Components/Sections/SecuritySection';
 import StepSection from '../Components/Sections/StepSection'
+import FaqSection from '../Components/Sections/FaqSection'
+import BackToTop from '../Components/Sections/BackToTop'
 
 const Index = () => {
   return (
@@ -22,6 +24,8 @@ const Index = () => {
         <TradingToolsSection/>
         <SecuritySection/>
         <StepSection/>
+        <FaqSection/>
+        <BackToTop/>
       </Layout>
     </div>
   )
