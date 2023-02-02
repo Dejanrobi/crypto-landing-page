@@ -7,7 +7,7 @@ const Navbar
  = () => {
   return (
     <nav >
-      <div className="fixed top-0 bg-white right-0 px-12 left-0 py-4 flex flex-row justify-between items-center">
+      <div className="fixed z-40 top-0 bg-white right-0 px-12 left-0 py-4 flex flex-row justify-between items-center">
         <div className="flex flex-row items-center">
           {/* Logo */}
           <div className='flex mr-6'>
